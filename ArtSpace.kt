@@ -111,7 +111,7 @@ fun BusinessImage(message: String, from: String, modifier: Modifier = Modifier) 
         CheckImage(
             str1 = message,
             str2 = from,
-            str3 = "The work on this is still under progress... Sorry for the delay",
+            str3 = "The Art Space App",
             modifier = Modifier
                 .fillMaxSize()
                 .padding(8.dp)
